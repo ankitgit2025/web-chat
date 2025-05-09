@@ -1,1 +1,11 @@
 # web-chat
+- The application uses MongoDB to store user data and chat history efficiently.
+- Express.js handles backend logic, API routes, and authentication mechanisms.
+- React.js provides a dynamic and responsive user interface for seamless chat interactions.
+- Node.js manages server-side operations, ensuring fast and scalable performance.
+- Socket.io enables real-time messaging, delivering instant updates to users.
+- The application includes user authentication, ensuring secure access to chat rooms.
+- It features group chats, private messaging, and media sharing capabilities.
+- Responsive design ensures compatibility across desktop and mobile devices.
+- The backend integrates third-party APIs for additional features like notifications.
+- Deployed on cloud platforms, the application ensures high availability and reliability.
